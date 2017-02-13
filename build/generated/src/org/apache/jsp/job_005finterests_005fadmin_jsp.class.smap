@@ -1,0 +1,31 @@
+SMAP
+job_005finterests_005fadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 job_interests_admin.jsp
+job_interests_admin.jsp
++ 1 session_check.jsp
+session_check.jsp
++ 2 admin_nav_bar.jsp
+admin_nav_bar.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,8:53
+1#1,7:61
+7,3:68
+8#0,23:71
+1#2,80:94
+30#0,2:173
+33,15:177
+47,24:192
+71:216,3
+72,2:219
+74,3:221,3
+77,3:230
+80:233,3
+81,13:236
+1#3,29:249
+93#0,4:277
+*E

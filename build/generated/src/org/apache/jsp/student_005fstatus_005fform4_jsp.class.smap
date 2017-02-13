@@ -1,0 +1,24 @@
+SMAP
+student_005fstatus_005fform4_jsp.java
+JSP
+*S JSP
+*F
++ 0 student_status_form4.jsp
+student_status_form4.jsp
++ 1 admin_nav_bar.jsp
+admin_nav_bar.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,21:52
+24,14:76
+37,10:90
+47,2:100,3
+49:106
+50:107,3
+51,7:110
+1#1,77:117
+57#0,9:193
+1#2,29:202
+65#0,4:230
+*E

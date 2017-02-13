@@ -1,0 +1,10 @@
+SMAP
+auto_005fsearch_jsp.java
+JSP
+*S JSP
+*F
++ 0 auto_search.jsp
+auto_search.jsp
+*L
+1,36:44
+*E
